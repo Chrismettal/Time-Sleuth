@@ -1,0 +1,78 @@
+16674813929203
+EigeneModule
+6Pads
+
+
+0
+6
+6
+EigeneModule
+433Mhz_Sender
+
+
+0
+3
+3
+EigeneModule
+433Mhz_SenderNoSilk
+
+
+0
+3
+3
+EigeneModule
+BARREL_JACK
+DC Barrel Jack
+Power Jack
+0
+3
+3
+EigeneModule
+DC-DC_Modul_LM2596
+
+
+0
+4
+4
+EigeneModule
+DHT22_Temperature_Humidity
+
+
+0
+4
+4
+EigeneModule
+PinheaderOwn
+Through hole straight pin header, 1x01, 2.54mm pitch, single row
+Through hole pin header THT 1x01 2.54mm single row
+0
+1
+1
+EigeneModule
+PinheaderOwnWithoutSilk
+Through hole straight pin header, 1x01, 2.54mm pitch, single row
+Through hole pin header THT 1x01 2.54mm single row
+0
+1
+1
+EigeneModule
+TerminalBlock_bornier-2_P5.08mmNoSilk
+simple 2-pin terminal block, pitch 5.08mm, revamped version of bornier2
+terminal block bornier2
+0
+2
+2
+EigeneModule
+USB_Micro-B_Wuerth-629105150521
+USB Micro-B receptacle, http://www.mouser.com/ds/2/445/629105150521-469306.pdf
+usb micro receptacle
+0
+9
+6
+EigeneModule
+USB_Micro-ebaygebims
+USB Micro-B receptacle, http://www.mouser.com/ds/2/445/629105150521-469306.pdf
+usb micro receptacle
+0
+9
+6

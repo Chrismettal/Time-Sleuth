@@ -3,7 +3,7 @@ C2 C3 C23,2,10u,Capacitors_SMD:C_0805_HandSoldering,16V,
 C10 C11 C12 C13 C14 C15 C16 C17 C18 C20 C22 C4 C5 C6 C7 C8 C9 ,18,.1u,Capacitors_SMD:C_0805_HandSoldering,50V,
 D1 ,1,LED,LEDs:LED-5MM,,
 J1 ,1,2000-1-1-20-00-BK,pads:HDMI_THRU,,1175-1700-ND 
-J2 ,1,548190519,digikey-footprints:USB_Mini_B_Female_548190519,,WM17115-ND 
+J2 ,1,Micro USB,Generic Chinese Micro USB like Wuerth Micro-B #629105150521,,
 J3 ,1,AVR-JTAG-10,Connect:IDC_Header_Straight_10pins,,ED1543-ND 
 L1 ,1,MH2029-100Y,Capacitors_SMD:C_0805_HandSoldering,10 Ohm,MH2029-100YCT-ND
 R1 ,1,300K,Resistors_SMD:R_0805_HandSoldering,,
